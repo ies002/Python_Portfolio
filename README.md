@@ -801,7 +801,7 @@ print(len(name))
 
 
 
-## Making Choices
+## Using Multiple Files
 
 ```python
 import glob
